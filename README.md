@@ -1,7 +1,6 @@
 # Parkinson Detection
 
-This repository contains a machine learning project aimed at detecting Parkinson's Disease using classification models. The project uses a dataset from [Kaggle]
-
+This repository contains a machine learning project aimed at detecting Parkinson's Disease using classification models. The project uses a dataset from kaggle
 ## Introduction
 Parkinson's Disease is a neurological disorder that impacts movement. Early detection is key to managing symptoms. This project leverages biomedical voice measurements to predict whether a patient has Parkinson's Disease.
 
